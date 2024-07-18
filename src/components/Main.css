@@ -1,0 +1,52 @@
+.lar {
+  margin-left: 350px;
+}
+
+/* .tweet {
+  border: 3px solid gray;
+  width: 50px;
+  height: 50px;
+} */
+ .username-style {
+  font-size: 18px;
+  color: #5b7083;
+   font-weight: 400;
+ }
+.cont {
+    position: relative;
+    width: 70%;
+    margin-left: 200%;
+  }
+  
+  .cen {
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  .img-style { 
+    width: 100%;
+  }
+
+  .rounded-circle{
+    /* border:1px solid; */
+    border-radius:50%;
+    width:50px;
+    height:50px;
+    margin-right: 5px;
+    }
+
+  /* .image {
+    width: 100%;
+  } */
+
+  .main {
+    background-image: url('https://cdn.vanguardngr.com/wp-content/uploads/2024/01/Ayra-Starr-Grammy.webp');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+  }
+  
